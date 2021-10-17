@@ -1,0 +1,6 @@
+{
+    "nrf-connect.topdir": "",
+    "files.associations": {
+        "File_IO.C": "cpp"
+    }
+}
